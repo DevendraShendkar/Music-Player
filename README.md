@@ -50,4 +50,4 @@ A simple and elegant music player app built using Kotlin. The app offers an intu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/music-player.git
+   git clone https://github.com/DevendraShendkar/Music-Player.git
