@@ -1,6 +1,28 @@
-# Music-Player
- 
-### ScreenShots
+# Music Player
+
+A simple and elegant music player app built using Kotlin. The app offers an intuitive user interface, smooth playback, and various features to enhance your music experience.
+
+## Features
+
+- **Play Local Music:** Play songs stored on your device effortlessly.
+- **Playlist Management:** Create, edit, and manage playlists for a personalized listening experience.
+- **Media Controls:** Easily control playback with play, pause, next, and previous buttons.
+- **Shuffle and Repeat:** Shuffle your songs or repeat your favorite tracks.
+- **User Interface:** Clean and easy-to-navigate UI with album art display.
+- **Background Play:** Continue listening while using other apps.
+- **Search Functionality:** Quickly search for your favorite tracks.
+
+## Technologies Used
+
+- **Language:** Kotlin
+- **Framework:** Android SDK
+- **Libraries:** 
+  - ExoPlayer for audio playback
+  - Glide for loading album art
+  - ViewModel and LiveData for efficient data handling
+
+## Screenshots
+
 <table>
   <tr>
     <td style="padding: 10px;">
@@ -25,3 +47,16 @@
     </td>
   </tr>
 </table>
+
+## Getting Started
+
+### Prerequisites
+
+- Android Studio
+- Minimum Android SDK version 21
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/music-player.git
