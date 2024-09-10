@@ -51,3 +51,8 @@ A simple and elegant music player app built using Kotlin. The app offers an intu
 1. Clone the repository:
    ```bash
    git clone https://github.com/DevendraShendkar/Music-Player.git
+
+
+## License
+
+This project is licensed under the Apache License 2.0. See the [LICENSE.txt](LICENSE.txt) file for details.   
