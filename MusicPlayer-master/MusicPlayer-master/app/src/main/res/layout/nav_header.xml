@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/linearLayoutNav"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/fav"
+    android:padding="16dp"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:layout_marginTop="25dp"
+    android:layout_marginBottom="55dp">
+
+
+    <ImageView
+        android:layout_width="97dp"
+        android:layout_height="81dp"
+        android:contentDescription="@string/app_icon"
+        android:src="@drawable/music"
+        android:layout_gravity="center|top" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="5dp"
+        android:gravity="center"
+        android:layout_gravity="center|bottom"
+        android:text='@string/music_speaks_to_the_soul_and_touches_our_hearts_creating_a_connection_that_words_cannot_unknown'
+        android:textSize="18sp"
+        android:textColor="@color/black" />
+
+
+</LinearLayout>
